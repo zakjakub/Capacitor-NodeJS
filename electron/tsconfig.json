@@ -1,9 +1,9 @@
 {
     "extends": "../configs/strict",
     "compilerOptions": {
-        "lib": [ "dom", "es2020" ],
-        "module": "commonjs",
-        "target": "es2017",
+        "lib": [ "dom", "ESNext" ],
+        "module": "NodeNext",
+        "target": "ESNext",
 
         "declaration": true,
         "sourceMap": true,
